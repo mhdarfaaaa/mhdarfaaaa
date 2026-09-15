@@ -1,16 +1,33 @@
-## Hi there 👋
+# Halo, Saya Muhammad Arfa
 
-<!--
-**mhdarfaaaa/mhdarfaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Sistem Informasi 
 
-Here are some ideas to get you started:
+Selamat datang di profil GitHub saya! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya merupakan lulusan Sistem Informasi yang memiliki minat
+dalam pengembangan aplikasi berbasis web.
+
+Saya senang mempelajari teknologi baru dan membangun aplikasi
+yang dapat memberikan solusi untuk berbagai kebutuhan.
+
+---
+
+## Tentang Saya
+
+- 🎓 Lulusan Sistem Informasi
+- 💻 Web Developer
+- 📚 Senang mempelajari teknologi baru
+
+---
+
+**Teknologi:**
+
+`React.js` `Next.js` `Express.js` `Node.js` `Bootstrap` `Tailwind`, 
+
+`PHP` `CodeIgniter` `MySQL` `Laravel` `Flutter`
+
+---
+
+### ⭐ Terima kasih sudah mengunjungi profil saya!
+
+Silakan lihat berbagai repository dan project yang saya kerjakan.
